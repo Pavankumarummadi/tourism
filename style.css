@@ -1,0 +1,55 @@
+.favouriate-place-bg-container{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/500px-Louvre_Courtyard%2C_Looking_West.jpg');
+    height: 200vh;
+    background-size: cover;
+    background-position: center;
+    margin:0;
+    background-attachment: fixed;
+}
+.favouriate-place-heading{
+    color:black;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 30px;   
+    font-family: Roboto;
+   
+}
+.favouriate-place-card-container{
+    background-color:white;
+    border-radius: 20px;
+    padding: 10px;
+    display: flex;
+    margin: 20px;
+}
+.favouriate-place-card-heading{
+    text-align: center;
+    color: #666;
+}
+.image{
+    height: 150px;
+    width: 560px;
+}
+.image1{
+    height: 150px;
+    width: 350px;
+}
+.image2{
+    height:150px;
+    width: 270px;
+}
+.image3{
+    height: 150px;
+    width: 600px;
+}
+.image4{
+    height: 150px;
+    width: 350px;
+}
+
+
+*{
+    margin:0;
+    padding:0;
+    
+}
+
